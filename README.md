@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Abdalrahman Alhamod
+  Hola, YO soy Junior Sanrios
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -24,18 +24,18 @@
   <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
 </p>
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🌱 Actualmente inmerso en el mundo de la**Programacion**, fascinado por la elegancia de la**la ingenieria** y siempre en busca de nuevos**idiomas de programacion**.
 
-💻 Passionately building an **Arch Installer** project. 
+💻 Construyendo apasionadamente en el mundo de la  **Programacion**. 
 
 
 <div align="Center">
-<h1>Skills</h1>
+<h1>Habilidades</h1>
 </div>
 
 <div align="Center">
 
-| Website | Programming |
+| Sitios Web | Programacion |
 | ------------- | ------------- |
 | <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
@@ -46,7 +46,7 @@
 <br>
 
 <div align="Center">
-<h1>Operating Systems</h1>
+<h1>Sistemas operativos</h1>
 
 <img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
@@ -55,7 +55,7 @@
 <br>
 <br>
 
-| Snake Eating Contributions in the last year |
+| Contribuciones de comer serpientes en los ultimos años |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
@@ -63,11 +63,11 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| Estadisticas | Racha definitiva |
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
-| Most Lang |
+| La mayoria de las lenguas |
 | ----------|
 | ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
@@ -79,13 +79,8 @@
 
 <div align="Center">
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+|‎ ‎ ‎ ‎ Contactos ‎ ‎ ‎ |
 | ----------|
 | <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
-
-------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
