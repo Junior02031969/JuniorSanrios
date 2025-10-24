@@ -2,12 +2,6 @@
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
 <div align="center">
-
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
-</div>
-
-<div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
