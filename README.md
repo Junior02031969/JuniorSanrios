@@ -1,8 +1,7 @@
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-<div align="center">
-[   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JUNIOR%20SANRIOS🧑‍💻)
+<div align="center"><img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
 <h3 align="center">
